@@ -24,7 +24,7 @@ In Portugal I pretend to apply for Academy de Códigos Bootcamp.
 
 
 
-  ## Status
+  ## Stats
 
 
 
