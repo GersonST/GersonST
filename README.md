@@ -5,10 +5,8 @@ On september I'm moving to Portugal for Master Degree and to study and work on t
 In Portugal I pretend to apply for Academy de Códigos Bootcamp.
 
  ## Stack
-  
-  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+ 
+  <a href="https://ibb.co/G5cVhpN"><img src="https://i.ibb.co/MCMRXSQ/Java-Script-CSS-HTML.png" alt="Java-Script-CSS-HTML" border="0" width = "150"></a>
   
   ## Interesse
   
