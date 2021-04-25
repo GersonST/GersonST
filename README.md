@@ -7,6 +7,7 @@ In Portugal I pretend to apply for Academy de Códigos Bootcamp.
  ## Stack
  
   <a href="https://ibb.co/G5cVhpN"><img src="https://i.ibb.co/MCMRXSQ/Java-Script-CSS-HTML.png" alt="Java-Script-CSS-HTML" border="0" width = "150"></a>
+  <a href="https://ibb.co/Symy6PZ"><img src="https://i.ibb.co/g9W9r3c/Bootstrap.png" alt="Bootstrap" border="0" width = "200"></a>
   
   ## Interesse
   
