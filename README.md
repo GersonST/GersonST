@@ -12,7 +12,7 @@ In Portugal I pretend to apply for Academy de Códigos Bootcamp.
   
   ## Interesse
   
-  ![NodeJS Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+ <a href="https://ibb.co/2yJGrQx"><img src="https://i.ibb.co/MsdFH4r/ReactJS.png" alt="ReactJS" border="0" width ="75"></a>
   
   ## Contato
   
