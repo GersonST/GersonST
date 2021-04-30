@@ -1,6 +1,6 @@
 # Hi, I'm Gerson Severo from Brazil, I'm a Civil Engineer but actually I deep into study Fullstack Development. 
 
-I am currently taking courses in the Fullstack area, but I intend to deep into the Front-end develpment.
+I am currently taking courses in the Fullstack area.
 On september I'm moving to Portugal for Master Degree and to study and work on the Dev area.
 In Portugal I pretend to apply for Academy de Códigos Bootcamp.
 
