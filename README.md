@@ -1,16 +1,22 @@
-# Hi, I'm Gerson Severo from Brazil, I'm a Civil Engineer but actually I deep into study Fullstack Development. 
-
+# Hello World!! I'm Gerson Severo
 I am currently taking courses in the Front-end area.
 On september I'm moving to Portugal for Master Degree and to study and work on the Dev area.
-In Portugal I pretend to apply for Academy de Códigos Bootcamp.
 
- ## Stack
+
+ ## Front-end stack
  
- <a href="https://ibb.co/XjLpbJ8"><img src="https://i.ibb.co/17QKL26/JS-CSS-HTML-Bootstrap.png" alt="JS-CSS-HTML-Bootstrap" border="0" height = "150"></a>
-  
-  ## Interesse
-  
- <a href="https://ibb.co/2yJGrQx"><img src="https://i.ibb.co/MsdFH4r/ReactJS.png" alt="ReactJS" border="0" width ="75"></a>
+ <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+ <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+ <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+ <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+ <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+ <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
+ 
+ 
+ ## Back-end stack
+ 
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+<img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
   
   ## Contato
   
