@@ -2,6 +2,9 @@
 I am currently taking courses in the Front-end area.
 On september I'm moving to Portugal for Master Degree and to study and work on the Dev area.
 
+## My Portfolio
+https://gersonst.github.io/portfolio-gerson/
+
 
  ## Front-end stack
  
